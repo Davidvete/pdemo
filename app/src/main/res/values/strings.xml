@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PulaDemo</string>
+    <string name="payment_button_text">Simulate payment notification</string>
+</resources>
